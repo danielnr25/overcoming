@@ -1,0 +1,28 @@
+#info{
+    background: rgb(0, 0, 0);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+
+}
+#info h3{
+    font-size: 28px;
+    text-align: center;
+}
+#info h2{
+    text-align: justify;
+    color: #32c4d1;
+}
+
+#info p{
+   
+    border: 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
